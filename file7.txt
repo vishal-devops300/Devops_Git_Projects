@@ -1,2 +1,3 @@
 this commit is for file7.txt
 changing tag for file7.txt
+checking for diff statement
