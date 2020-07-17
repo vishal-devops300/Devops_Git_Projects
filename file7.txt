@@ -1,1 +1,2 @@
 creating again file7.txt
+new changes in file7
